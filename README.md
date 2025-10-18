@@ -40,7 +40,7 @@ Di sini kamu akan belajar struktur dasar halaman web, elemen penting HTML, dan c
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=HTML%20Preview&fontColor=fff&fontSize=30&height=60&animation=fadeIn" />
 </p>
 
-> 🌈 Desain halaman berwarna biru dengan layout responsif dan tampilan simpel.
+> 🐣 Desain halaman berwarna biru dengan layout responsif dan tampilan simpel.
 
 ---
 
